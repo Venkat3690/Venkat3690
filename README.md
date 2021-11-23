@@ -2,7 +2,7 @@
 ### *IT'S VENKAT*
 ### _ADITYAN_
 
-- 🌱 I’m currently in learning stage.
+- 🌱 I’m currently in learning state.
 - 👯 I’m looking to collaborate on coding.
 - 📫 reach me through email: venkatapattabhiganti@gmail.com
 - ___**😄 Loved to be Alone 😎**___
