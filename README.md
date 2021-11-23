@@ -12,38 +12,3 @@
 |s.no|Name| Roll.no|Branch|
 |----|----|--------|------|
 |1| ***VENKAT***|519|CSE|
-
-### List
-1. CSE
-2. ECE
-3. IT
-4. MECH
-5. CIVIL
-
-
-### unordered list
-- CSE
-- ECE
-- MECH
-- IT
-- CIVIL
-
-* CSE
-* ECE
-* IT
-* MECH
-* CIVIL
-
-## NESTED LIST
-1. CSE
-- STUDENTS 
-- REBELS
-
-```python code
-a=int(input("enter the number: ")
-if a%2==0:
-print("ur are very good")
-else :
-print("im very good")
-```
-
